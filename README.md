@@ -15,7 +15,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
 
 📊 **GitHub Stats:**  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SharmaUdayBhanu&show_icons=true&theme=dark)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SharmaUdayBhanu&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaUdayBhanu&layout=compact&theme=dark)  
 
 🔥 **GitHub Streak:**  
