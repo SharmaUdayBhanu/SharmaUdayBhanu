@@ -23,22 +23,6 @@
 
 ---
 
-## 📊 **GitHub Stats:**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharmaUdayBhanu&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaUdayBhanu&layout=compact&theme=dark" width="48%" />
-</div>
-
----
-
-## 🔥 **GitHub Streak & Activity Graph:**  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharmaUdayBhanu&theme=dark" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharmaUdayBhanu&theme=react-dark" width="48%" />
-</div>
-
----
-
 ## 🎯 **Competitive Programming Stats:**  
 
 ### 🔥 **Code360 Stats**  
@@ -63,9 +47,4 @@
 
 ---
 
-## 🐍 **GitHub Contribution Snake Animation:**  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharmaUdayBhanu/SharmaUdayBhanu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharmaUdayBhanu/SharmaUdayBhanu/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SharmaUdayBhanu/SharmaUdayBhanu/output/github-snake.svg" />
-</picture>
+
