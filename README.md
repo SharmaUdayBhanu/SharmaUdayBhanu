@@ -2,7 +2,7 @@
 ### 🚀 Aspiring Web Developer | B.Tech CSE @ LPU | Gym Enthusiast  
 
 🌟 **About Me:**  
-- 🔯 I’m working on modern and responsive web projects  
+- 🔭 I’m working on modern and responsive web projects  
 - 💡 Exploring JavaScript frameworks and backend technologies  
 - 🎯 Interested in UI/UX, Web Development, and Automation  
 
@@ -44,9 +44,9 @@
 ### 🔥 **Code360 Stats**  
 [![Code360](https://img.shields.io/badge/-Code360-red?style=flat-square&logo=naukri)](https://www.naukri.com/code360/profile/ff18f8b7-2c97-4f99-b313-b543811a00d9)  
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Sharmaji007a?theme=dark&ext=activity" width="50%" />
-</div>
+🔗 [**View My Code360 Profile**](https://www.naukri.com/code360/profile/ff18f8b7-2c97-4f99-b313-b543811a00d9)  
+
+---
 
 ### 🏆 **LeetCode Stats**  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sharmaji007a/)  
@@ -63,7 +63,7 @@
 
 ---
 
-<!-- Snake Animation -->  
+## 🐍 **GitHub Contribution Snake Animation:**  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharmaUdayBhanu/SharmaUdayBhanu/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharmaUdayBhanu/SharmaUdayBhanu/output/github-snake.svg" />
