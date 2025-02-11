@@ -25,10 +25,16 @@
 
 ## 🎯 **Competitive Programming Stats:**  
 
-### 🔥 **Code360 Stats**  
-[![Code360](https://img.shields.io/badge/-Code360-red?style=flat-square&logo=naukri)](https://www.naukri.com/code360/profile/ff18f8b7-2c97-4f99-b313-b543811a00d9)  
+## 🔥 Code360 Progress  
+<table>
+  <tr>
+    <td>
+      <img src="https://your-image-host.com/code360-progress.png" width="600px"/>
+    </td>
+  </tr>
+</table>
 
-🔗 [**View My Code360 Profile**](https://www.naukri.com/code360/profile/ff18f8b7-2c97-4f99-b313-b543811a00d9)  
+[🔗 **View My Code360 Profile**](https://www.naukri.com/code360/profile/ff18f8b7-2c97-4f99-b313-b543811a00d9)  
 
 ---
 
